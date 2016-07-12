@@ -32,12 +32,12 @@ Agree and write down what each color on this map means. To prevent further specu
 ### Optional (adds some randomness to the game)
 
 Throw d6 3 items, each result add rules:
-* Crossings. No need for bridges (except crossing rails).
-* Settled up. Connect all colonies with railway before game start. Ignore intersection requirements.
-* Production boost. Double length when building d6: (1-2: cables, 3-4: pipes, 5-6: fibre)
-* Trade agreement. All connections through other colonies counts as direct.
-* ???
-* ???
+1. Crossings. No need for bridges (except crossing rails).
+2. Settled up. Connect all colonies with railway before game start. Ignore intersection requirements.
+3. Production boost. Double length when building d6: (1-2: cables, 3-4: pipes, 5-6: fibre)
+4. Trade agreement. All connections through other colonies counts as direct.
+5. ???
+6. ???
 
 
 ## Missions
@@ -61,12 +61,12 @@ Player roll d6 for generating mission. Each player should have 5 missions. Playe
 Scout take dice, raise it 10cm above place he want to search and release. Place where dice fells will define location of event, and value - type. Draw line around dice. And add mark inside (e.g. by proper color). If dice overlap with other created objects (except transportation lines), move it 0.5 cm outside towards nearest side.
 
 Types:
-* Nothing.
-* Outpost.
-* Solar array.
-* Mine.
-* Well.
-* Anomaly.
+1. Nothing.
+2. Outpost.
+3. Solar array.
+4. Mine.
+5. Well.
+6. Anomaly.
 
 TODO illustration for anomalies, etc.
 
@@ -108,27 +108,27 @@ Player could extend line by 3mm if it will connect to structure.
 To build railway, you need to build 2 lines simultaneously (d6 /2), with distance 0.5 cm.
 
 
- ## Variations
+## Variations
  
- ### Longer play
+### Longer play
  
  After player complete mission, he roll for next one. Game lasts 500 turns (or 1 hour). Winner is one who completed most missions. If equal, player who completed mission last - wins.
  
- ### Cooperative play
+### Cooperative play
  
  Players have 100 turns to complete 10 missions. (~4 players, for other amount of players - adjust).
+
+### 1 player
  
- ### 1 player
- 
- #### Challenge
+#### Challenge
  
  You have 50 turns to complete all 5 tasks. Put 3 random colonies on map.
  
- #### Sandbox
+#### Sandbox
  
  Just keep taking new missions, until map is full (look how many lines and stuff you have, take a picture!)
  
- ### Playing with kids
+### Playing with kids
  
  Some rules could be hard to follow for kids. Here example of simplified rules for them. Adults could still play with full rules, making game fun for everyone. Could be explained as super power that only young people could have.
 * Don't need bridges. Lines could cross others.
