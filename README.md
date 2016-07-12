@@ -32,6 +32,7 @@ Agree and write down what each color on this map means. To prevent further specu
 ### Optional (adds some randomness to the game)
 
 Throw d6 3 items, each result add rules:
+
 1. Crossings. No need for bridges (except crossing rails).
 2. Settled up. Connect all colonies with railway before game start. Ignore intersection requirements.
 3. Production boost. Double length when building d6: (1-2: cables, 3-4: pipes, 5-6: fibre)
@@ -61,6 +62,7 @@ Player roll d6 for generating mission. Each player should have 5 missions. Playe
 Scout take dice, raise it 10cm above place he want to search and release. Place where dice fells will define location of event, and value - type. Draw line around dice. And add mark inside (e.g. by proper color). If dice overlap with other created objects (except transportation lines), move it 0.5 cm outside towards nearest side.
 
 Types:
+
 1. Nothing.
 2. Outpost.
 3. Solar array.
@@ -88,12 +90,14 @@ TODO illustration for anomalies, etc.
 TODO illustration for various lines
 
 Throw d6, draw transportation lined based on dice result and bonuses that colony may contain. E.g. 2 solar arrays connected and player roll 5, so he could build 7 (5+2) cables, or 2.5 (5/2) cm rails, etc.
+
 Player could build:
+
 * Railway (black). Divide dice result by 2. Draw 2 parallel lines for result value.
 * Power cables (red).
 * Water pipes (blue).
 * Optical fibre (green).
-* Bridges (black), Require dice result 3+. Internal length is max 1 cm. External - 2cm. Width 2mm outside crossing line. Bridge could cross only 1 line, except case, when multiple lines are closer than 0.5 cm to each other.
+* Bridges (black), Require dice result 3+. Internal length is max 0.9 cm. External - 1.5 cm. Width 2mm outside crossing line. Bridge could cross only 1 line, except case, when multiple lines are closer than 0.5 cm to each other.
 TODO: bridge illustration
 * Hub. If original roll was 6, player could attempt to roll again. If 6, he could build hub in any place that directly connected to colony by rails. If <6, then he skip his turn.
 
