@@ -2,6 +2,8 @@
 
 Game that could be played on a real map. Recommended for 3-5 players, but could be played basically with any number of people (as long as everyone could fit around the map, but as turn are sequential, huge number of players could lead to long wait times).
 
+Some examples with pictures: https://github.com/petrukhnov/map-game/wiki/Examples
+
 This is work in progress. Feel free to add comments, issues, pull requests, map photos before/after play.
 
 
